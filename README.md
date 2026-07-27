@@ -29,7 +29,7 @@ The application extracts content from a PDF, generates embeddings, stores them i
 - Pinecone
 - HuggingFace Embeddings
 - Groq API
-- PyPDF
+- PyMuPDF
 - Dotenv
 
 ---
@@ -231,21 +231,9 @@ Page 3
 Page 18
 ```
 
----
-
-## 📈 Future Improvements
-
-- Conversation memory
-- Multiple PDF support
-- Hybrid search (Dense + BM25)
-- Query rewriting
-- Streaming responses
-- User authentication
-- Docker deployment
-- Cloud deployment
 
 ---
 
 ## 👨‍💻 Author
 
-Developed as an AI Engineer Internship Assessment Project.
+Developed by Vamsi for AI Engineer Internship Assessment Project.
