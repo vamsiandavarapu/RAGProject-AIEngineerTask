@@ -8,6 +8,6 @@ sentence-transformers
 transformers
 torch
 groq
-pypdf
+pymupdf
 python-dotenv
-tqdm
+
